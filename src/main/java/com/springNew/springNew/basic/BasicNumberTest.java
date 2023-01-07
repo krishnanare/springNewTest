@@ -12,7 +12,7 @@ public class BasicNumberTest {
 	     int num=20;
 		 //factorial(num);
 		// tableMultiplication(num);
-		//findArmStrongNumber();
+	     findArmStrongNumber();
 	    // fabinacciSeries(num);
 	     //firstAndLastNumbers();
 	    // firstAndLastNumbersM2();
